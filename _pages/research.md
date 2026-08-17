@@ -7,7 +7,7 @@ author_profile: true
 
 My research bridges **structural fire engineering**, **computational mechanics**, and **risk analysis** to build safer and more resilient communities. I develop physics-based models and data-driven frameworks to understand how structures behave under fire and other extreme hazards, and how to design them economically and sustainably over their full service life.
 
-Starting **August 2026**, I will join the Department of Civil and Environmental Engineering at the **University of Nebraska–Lincoln** as a tenure-track Assistant Professor. I am actively recruiting motivated Ph.D. students — see below.
+I am a tenure-track Assistant Professor in the Department of Civil and Environmental Engineering at the **University of Nebraska–Lincoln** (since August 2026). I am actively recruiting motivated Ph.D. students — see below.
 
 ---
 
@@ -42,7 +42,7 @@ Key topics:
 
 ### Wildland–Urban Interface (WUI) Fire Risk Analysis
 
-The growing threat of wildfires to communities at the wildland–urban interface demands comprehensive, data-driven risk frameworks. My current postdoctoral research at the University of Nevada, Reno develops community-scale WUI fire risk models that integrate ignition probability, fire spread dynamics, and structural vulnerability to support resilient land use planning and emergency response.
+The growing threat of wildfires to communities at the wildland–urban interface demands comprehensive, data-driven risk frameworks. My postdoctoral research at the University of Nevada, Reno (2025–2026) developed community-scale WUI fire risk models that integrate ignition probability, fire spread dynamics, and structural vulnerability to support resilient land use planning and emergency response.
 
 Key topics:
 - Data-driven fire risk and occurrence analysis
@@ -63,7 +63,7 @@ Key topics:
 ## Current & Recent Projects
 
 **WUI Fire Risk Analysis and Spread Modeling** *(2025–2026, University of Nevada, Reno)*  
-Developing data-driven models for WUI fire occurrence and spread to support community-level risk quantification. This work is funded through the [University of Nevada, Reno](https://www.unr.edu) and contributes to regional fire resilience planning in the western United States.
+Developed data-driven models for WUI fire occurrence and spread to support community-level risk quantification. This work is funded through the [University of Nevada, Reno](https://www.unr.edu) and contributes to regional fire resilience planning in the western United States.
 
 **Lifetime Cost Assessment of Structural Fire Design** *(Johns Hopkins University)*  
 Developed a comprehensive economic framework and accompanying [web tool](https://scholar.google.com/citations?user=PS_CX0AAAAAJ) quantifying the lifetime costs of different fire protection strategies for steel-framed buildings, enabling direct comparison of prescriptive and performance-based approaches.
@@ -81,7 +81,7 @@ Combined experimental data and machine learning to develop predictive models for
 
 ## Prospective Students
 
-I am seeking motivated Ph.D. students to join my group at the **University of Nebraska–Lincoln** starting **Fall 2026** (applications due December 2025). Research directions include:
+I am seeking motivated Ph.D. students to join my group at the **University of Nebraska–Lincoln** starting **Fall 2027** (applications due December 2026). Research directions include:
 
 - Structural fire engineering and performance-based fire design
 - Multi-hazard risk assessment and resilience
