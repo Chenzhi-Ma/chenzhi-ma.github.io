@@ -24,7 +24,7 @@ Academic Positions
 ======
 * **Assistant Professor (Tenure-Track)**, University of Nebraska–Lincoln, Aug 2026–present
   * Department of Civil and Environmental Engineering
-* **Postdoctoral Scholar**, University of Nevada, Reno, Oct 2025–Jul 2026
+* **Postdoctoral Scholar**, University of Nevada, Reno, Oct 2025–Aug 2026
   * Project: Wildland–Urban Interface (WUI) fire risk analysis and fire spread modeling
 
 Research Interests

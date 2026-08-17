@@ -15,5 +15,6 @@ He received his Ph.D. in Civil and Systems Engineering from Johns Hopkins Univer
 
 - **Email:** [chenzhima26@gmail.com](mailto:chenzhima26@gmail.com)
 - **Google Scholar:** [profile](https://scholar.google.com/citations?user=DbHkoCIAAAAJ&hl=en)
+- **LinkedIn:** [chenzhi-ma-80855b21b](https://www.linkedin.com/in/chenzhi-ma-80855b21b/)
 
 See the [Research page](/research/) for current projects and the [CV](/cv/) for a full record.
